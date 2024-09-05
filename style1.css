@@ -14,7 +14,7 @@ body{
 
 .wrapper{
     width: 420px;
-    background: aquamarine;
+    background: linear-gradient(90deg, aquamarine, rgb(7, 129, 129));
     border-radius: 30px;
     text-align: center;
 
